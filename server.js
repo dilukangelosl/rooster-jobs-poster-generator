@@ -68,7 +68,7 @@ app.get('/image', async (req,res) => {
     overflow: hidden;">
 
     
-    <h1 style="word-break: break-word;font-size:110pt; color:white; font-weight:bold;font-family: 'Roboto', sans-serif;">${text}</h1>
+    <h1 style="word-break: break-word;font-size:110pt; color:white; font-weight:bold;font-family: 'Roboto', sans-serif;    line-height: 140px;">${text}</h1>
     </div>
     <div style="padding-left: 25px;
     height: 308px;
