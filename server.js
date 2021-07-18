@@ -93,6 +93,6 @@ app.get('/image', async (req,res) => {
 })
 
 
-app.listen(80, () => {
+app.listen(3000, () => {
     console.log("Server running");
 })
