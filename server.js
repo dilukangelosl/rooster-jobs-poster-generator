@@ -71,6 +71,7 @@ app.get('/image', async (req,res) => {
     <h1 style="word-break: break-word;font-size:110pt; color:white; font-weight:bold;font-family: 'Roboto', sans-serif;    line-height: 140px;">${text}</h1>
     </div>
     <div style="padding-left: 25px;
+    background:white;
     height: 308px;
     max-height: 258px;
     display: flex;
