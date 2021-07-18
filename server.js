@@ -75,7 +75,7 @@ app.get('/image', async (req,res) => {
     max-height: 258px;
     display: flex;
     align-items: center;">
-        <img src="${logo}" style="    height: 75%;" />
+        <img src="${logo}" style="    height: 105px" />
     </div>
    </div>
 </body>
